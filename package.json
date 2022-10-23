@@ -1,0 +1,21 @@
+{
+  "name": "awesome_bot",
+  "version": "0.0.1",
+  "description": "*Awesome-Bot* is a [*Discord*](https://discord.com) Bot for [*Awesome5834*](https://www.youtube.com/channel/UC8jK9yNTnEdrwBg2hJRlC_A)'s [Discord Server](https://discord.gg/da32ASg). It features leveling, custom commands, welcome messages, and a Minecraft-Discord Chat that would work if  [this bug](https://bugs.mojang.com/browse/BDS-1013) was nonexistent ;-;, with more to come!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cda94581/discord_bots/tree/main/awesome_bot"
+  },
+  "author": "cda94581",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs-extra": "^10.0.0",
+    "uuid": "^8.3.2",
+    "ws": "^8.5.0"
+  }
+}

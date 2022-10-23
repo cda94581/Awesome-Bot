@@ -1,0 +1,19 @@
+{
+	"prefix": "YOUR PREFIX HERE (STRING)",
+	"token": "YOUR TOKEN HERE",
+	"welcomechannel": "YOUR WELCOME CHANNEL HERE (STRING OF ID)",
+	"levelinfo": {
+		"levels": [	"INSERT LEVELS TO GET ROLES HERE (INT)"	],
+		"roles": [ "INSERT ROLES CORRESPONDING HERE (STRINGS OF IDS)" ],
+		"blacklist": [	"INSERT BLACKLISTED CHANNELS HERE (STRINGS OF IDS)"	]
+	},
+	"reactionroles": [
+		{
+			"channel": "CHANNEL YT RR OCCURS (STRING OF ID)",
+			"message": "MESSAGE ID RR (STRING OF ID)",
+			"emoji": "EMOJI RR (STRING OF ID)",
+			"role": "ROLE TO GIVE RR (STRING OF ID)"
+		}
+	],
+	"acchatchannel": "CHANNEL FOR AWESOME CRAFT CHAT (STRING OF ID)"
+}
